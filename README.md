@@ -1,4 +1,4 @@
-# Relux Restaurant - Web App (Vue.js & Firebase) 
+# Telux Restaurant - Web App (Vue.js & Firebase) 
 
 > Telux Restaurant is a dynamic web app by using Vue js and firebase databasew with different components, Vue-Router, etc. The user can easily  using the add, update, remove food items to the applciation and disply to frontend without refreshing the page. This is what makes navigation easy and it really nice web applications. https://telux-restaurant.firebaseapp.com/#/
  
